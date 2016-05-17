@@ -1,4 +1,4 @@
-package com.example.sukie.mycodecademy;
+package com.example.sukie.lunchbox;
 
 import android.os.Bundle;
 import android.support.design.widget.FloatingActionButton;
